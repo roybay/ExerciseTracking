@@ -1,6 +1,8 @@
 #Inital Task List
->> Blockquote
+> Blockquote
+
 * Show a calendar like the one below for the current month
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 * Allow users to swipe left and right to see different months
 * Allow users to put a check mark on the days they went to the gym
 * Allow user to see how many days in a row they have gone to the gym to date ( good )
