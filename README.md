@@ -1,6 +1,7 @@
-Show a calendar like the one below for the current month
-Allow users to swipe left and right to see different months
-Allow users to put a check mark on the days they went to the gym
+#Inital Task List
+*Show a calendar like the one below for the current month
+*Allow users to swipe left and right to see different months
+*Allow users to put a check mark on the days they went to the gym
 Allow user to see how many days in a row they have gone to the gym to date ( good )
 Allow users to share their calendars
 Allow users to follow other people’s calendars
