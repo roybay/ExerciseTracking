@@ -1,6 +1,5 @@
 #Inital Task List
-> Blockquote
-
+- - - -
 * Show a calendar like the one below for the current month
 ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 * Allow users to swipe left and right to see different months
