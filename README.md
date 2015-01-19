@@ -1,7 +1,7 @@
 #Inital Task List
 - - - -
 * Show a calendar like the one below for the current month
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+![picture alt](http://www.onlineprintablecalendar.com/wp-content/uploads/2014/12/2015-January-Calendar-4.gif "Calendar 2015")
 * Allow users to swipe left and right to see different months
 * Allow users to put a check mark on the days they went to the gym
 * Allow user to see how many days in a row they have gone to the gym to date ( good )
